@@ -1,0 +1,7 @@
+langchain
+langgraph
+# langchain-openai
+langchain-google-genai
+python-dotenv
+ipython
+langgraph-checkpoint-postgres
